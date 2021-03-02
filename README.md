@@ -1,3 +1,3 @@
 # poemsParse
 
-Parse all poems from stih.su
+Multithreaded parsing of all poems from stih.su
